@@ -1,0 +1,1 @@
+This program is an encrypted messaging system which allows two parties to establish an AES encrypted communications channel. The program relies on the Diffie-Helman algorithm for key exchange. This is NOT suitable for sensitive communications as it is not a complete re-implementation of the SSL stack. 
